@@ -15,3 +15,7 @@ This repository Contains A simple TicTacToe Game.
 > It covers a good implementation of Oops in Java and was a fun minor project.
 
 ### In-App Screenshots
+<div>
+  <img src = "https://github.com/vmbansal2001/TicTacToe/blob/master/App%20Screenshots/Screenshot%20from%202021-07-14%2022-49-24.png" width = 250>
+  <img src = "https://github.com/vmbansal2001/TicTacToe/blob/master/App%20Screenshots/Screenshot%20from%202021-07-14%2022-50-40.png" width = 250>
+</div>
