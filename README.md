@@ -1,6 +1,9 @@
 # TicTacToe
 This repository Contains A simple TicTacToe Game.
 
+## Requirements
+You'll need to install JAVA on your system and you'll need an IDE to run the Java Files.
+
 ## Setup Guide
 1. Download all 3 files and insert them in a single folder.
 2. Import that Folder in your Java IDE as a project.
